@@ -3,13 +3,14 @@ project:
   output-dir: docs
 
 book:
-  title: "AU_EdPolicyOrganization"
-  author: "Jane Doe"
-  date: "5/4/2023"
+  title: "AU Educational and Health Policy Research Center"
   chapters:
     - index.qmd
     - intro.qmd
     - summary.qmd
+    - research_projects.qmd
+    - potential_funding_sources.qmd
+    - someday_maybe.qmd    
     - references.qmd
 
 bibliography: references.bib

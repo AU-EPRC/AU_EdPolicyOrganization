@@ -1,9 +1,42 @@
 # Introduction
 
-This is a book created from markdown and executable code.
 
-See @knuth84 for additional discussion of literate programming.
+## Mission
 
-```{r}
-1 + 1
-```
+The mission of the Modern Methods Research Center is to improve the quality of research in the College of Education and across Auburn University.
+pooling resources and expertise to help support the research enterprise, including seeking grant funding;  designing empirical studies; data collection and storage; selecting and implementing rigorous research methods; accurately and transparently reporting research findings; and synthesizing empirical information for policy-makers and the general public.
+
+# AU Ed Policy Organization
+
+## Data, Analytics, and Statistical Software Resource Unit (DASSR)
+
+* House large scale secondary data sources
+* House state educational data
+* Develop software to merge state and local data with national level data
+* Utilize Artificial Intelligence and Machine Learning to streamline and data acquisition, processing, and analysis    
+* Develop methods to meet the complexity of educational longitudinal data
+* Facilitate student and faculty access to the HPC cluster
+  - establish Rstudio server on COE HPC node
+  - provide training for using HPC cluster
+
+## Research Consultation, and Training Services (RCT)
+
+* Provide statistical consultation to Auburn faculty and students.
+* Provide training on modern research methods and data workflow
+* Provide training on use of large scale secondary data sources (e.g. NCES)
+
+## Policy, Evaluation, and Applied Research Labs (PEARL)
+
+* Conduct research informing state and local education policy
+* Synthesize information for educational practitioners
+* Conduct systematic reviews and meta-analyses to inform policy
+
+### Example Lab types
+
+* Educational Policy, Evaluation, and Applied Research Labs (Ed-PEARLS)
+* Health Policy, Evaluation, and Applied Research Labs (H-PEARLS)
+
+
+### Examples
+
+* SPARK STEM Institute

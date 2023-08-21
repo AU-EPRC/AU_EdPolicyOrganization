@@ -1,0 +1,13 @@
+---
+title: "Research Projects"
+---
+
+## Nonlinear Achievement Trajectories
+
+
+
+## Time adjustment
+
+using mixed-effects models to partition within and between variation of observation times and age.
+
+McNeish and Kelley 2019

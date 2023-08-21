@@ -1,9 +1,8 @@
 # Preface {.unnumbered}
 
-This is a Quarto book.
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+## Mission
 
-```{r}
-1 + 1
-```
+University mission, land grant mission, enhance research productivity on campus
+
+    

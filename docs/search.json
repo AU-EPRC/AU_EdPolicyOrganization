@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "AU Educational and Health Policy Research Center",
+    "section": "",
+    "text": "Preface"
+  },
+  {
+    "objectID": "index.html#mission",
+    "href": "index.html#mission",
+    "title": "AU Educational and Health Policy Research Center",
+    "section": "Mission",
+    "text": "Mission\nUniversity mission, land grant mission, enhance research productivity on campus"
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "2 AU Ed Policy Organization"
+  },
+  {
+    "objectID": "intro.html#mission",
+    "href": "intro.html#mission",
+    "title": "1  Introduction",
+    "section": "1.1 Mission",
+    "text": "1.1 Mission\nThe mission of the Modern Methods Research Center is to improve the quality of research in the College of Education and across Auburn University. pooling resources and expertise to help support the research enterprise, including seeking grant funding; designing empirical studies; data collection and storage; selecting and implementing rigorous research methods; accurately and transparently reporting research findings; and synthesizing empirical information for policy-makers and the general public."
+  },
+  {
+    "objectID": "intro.html#data-analytics-and-statistical-software-resource-unit-dassr",
+    "href": "intro.html#data-analytics-and-statistical-software-resource-unit-dassr",
+    "title": "1  Introduction",
+    "section": "2.1 Data, Analytics, and Statistical Software Resource Unit (DASSR)",
+    "text": "2.1 Data, Analytics, and Statistical Software Resource Unit (DASSR)\n\nHouse large scale secondary data sources\nHouse state educational data\nDevelop software to merge state and local data with national level data\nUtilize Artificial Intelligence and Machine Learning to streamline and data acquisition, processing, and analysis\n\nDevelop methods to meet the complexity of educational longitudinal data\nFacilitate student and faculty access to the HPC cluster\n\nestablish Rstudio server on COE HPC node\nprovide training for using HPC cluster"
+  },
+  {
+    "objectID": "intro.html#research-consultation-and-training-services-rct",
+    "href": "intro.html#research-consultation-and-training-services-rct",
+    "title": "1  Introduction",
+    "section": "2.2 Research Consultation, and Training Services (RCT)",
+    "text": "2.2 Research Consultation, and Training Services (RCT)\n\nProvide statistical consultation to Auburn faculty and students.\nProvide training on modern research methods and data workflow\nProvide training on use of large scale secondary data sources (e.g. NCES)"
+  },
+  {
+    "objectID": "intro.html#policy-evaluation-and-applied-research-labs-pearl",
+    "href": "intro.html#policy-evaluation-and-applied-research-labs-pearl",
+    "title": "1  Introduction",
+    "section": "2.3 Policy, Evaluation, and Applied Research Labs (PEARL)",
+    "text": "2.3 Policy, Evaluation, and Applied Research Labs (PEARL)\n\nConduct research informing state and local education policy\nSynthesize information for educational practitioners\nConduct systematic reviews and meta-analyses to inform policy\n\n\n2.3.1 Example Lab types\n\nEducational Policy, Evaluation, and Applied Research Labs (Ed-PEARLS)\nHealth Policy, Evaluation, and Applied Research Labs (H-PEARLS)\n\n\n\n2.3.2 Examples\n\nSPARK STEM Institute"
+  },
+  {
+    "objectID": "research_projects.html#nonlinear-achievement-trajectories",
+    "href": "research_projects.html#nonlinear-achievement-trajectories",
+    "title": "3  Research Projects",
+    "section": "3.1 Nonlinear Achievement Trajectories",
+    "text": "3.1 Nonlinear Achievement Trajectories"
+  },
+  {
+    "objectID": "research_projects.html#time-adjustment",
+    "href": "research_projects.html#time-adjustment",
+    "title": "3  Research Projects",
+    "section": "3.2 Time adjustment",
+    "text": "3.2 Time adjustment\nusing mixed-effects models to partition within and between variation of observation times and age.\nMcNeish and Kelley 2019"
+  },
+  {
+    "objectID": "potential_funding_sources.html",
+    "href": "potential_funding_sources.html",
+    "title": "4  Potential Funding Sources",
+    "section": "",
+    "text": "SBIR = Small Business Innovation Research\nSTTR = Small Business Technology Transfer\nFederal site with information\nAn overview slideshow\nNSF RAPID AI in K-12\nWTG Institutional Challenge Grant"
+  },
+  {
+    "objectID": "someday_maybe.html#conferences-on-leadershipadministration",
+    "href": "someday_maybe.html#conferences-on-leadershipadministration",
+    "title": "5  Someday/Maybe",
+    "section": "5.1 Conferences on Leadership/Administration",
+    "text": "5.1 Conferences on Leadership/Administration\nAcademic Chairpersons Conference"
+  }
+]

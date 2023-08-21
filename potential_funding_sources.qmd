@@ -1,0 +1,14 @@
+---
+title: "Potential Funding Sources"
+---
+
+
+SBIR = Small Business Innovation Research   
+STTR = Small Business Technology Transfer
+ 
+[Federal site with information](https://www.sbir.gov/)   
+[An overview slideshow](https://www.sbir.gov/sites/default/files/SBA_SBIR_Overview_March2020.pdf)
+
+[NSF RAPID AI in K-12](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJzdWJzY3JpYmVyX2lkIjoiMTQzNTUwOTcwOCIsImJ1bGxldGluX2xpbmtfaWQiOiIxMDEiLCJ1cmkiOiJicDI6ZGlnZXN0IiwibGlua19pZCI6IjI4ODk4NDc0MTIiLCJidWxsZXRpbl9pZCI6IjIwMjMwNTA4Ljc2Mzc2MTQxIiwidXJsIjoiaHR0cHM6Ly93d3cubnNmLmdvdi9wdWJzLzIwMjMvbnNmMjMwOTcvbnNmMjMwOTcucGRmP1dULm1jX2V2PWNsaWNrJldULm1jX2lkPSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9Z292ZGVsaXZlcnkiLCJlbWFpbCI6IndtbTAwMTdAYXVidXJuLmVkdSJ9.YauCexyamvImxaIbZM1YGs7dMdxZsxgXNRLgYzHJgkg&data=05%7C01%7Cwmm0017%40auburn.edu%7C16589955fd644f14149208db5f5b5a07%7Cccb6deedbd294b388979d72780f62d3b%7C1%7C0%7C638208618341265439%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=NWFQKPIiYjCEziGtatXg60kUIwXtrJvJKGYtqDN9MIA%3D&reserved=0)
+
+[WTG Institutional Challenge Grant](https://wtgrantfoundation.org/grants/institutional-challenge-grant)
