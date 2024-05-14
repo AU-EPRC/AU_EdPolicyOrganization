@@ -4,76 +4,149 @@
     "href": "index.html",
     "title": "AU Educational and Health Policy Research Center",
     "section": "",
-    "text": "Preface"
+    "text": "Preface",
+    "crumbs": [
+      "Preface"
+    ]
   },
   {
     "objectID": "index.html#mission",
     "href": "index.html#mission",
     "title": "AU Educational and Health Policy Research Center",
     "section": "Mission",
-    "text": "Mission\nUniversity mission, land grant mission, enhance research productivity on campus"
+    "text": "Mission\nAuburn University’s Center for Education and Health Research aims to advance the understanding of state and federal education and health policies and practices through rigorous empirical research. By leveraging secondary data sources and cutting-edge technologies in machine learning and artificial intelligence, the Center seeks to generate impactful insights and solutions that address the unique challenges of rural education and health systems. Our commitment is to inform policy, practice, and public understanding to foster equitable and effective educational and health outcomes for all communities.\nThe [Center Name] at [University Name] is dedicated to advancing evidence-based education and health policies through rigorous empirical research. Our mission is to inform state and federal decision-making by leveraging secondary data sources, incorporating machine learning and artificial intelligence, and collaborating with experts in rural education.",
+    "crumbs": [
+      "Preface"
+    ]
   },
   {
     "objectID": "intro.html",
     "href": "intro.html",
     "title": "1  Introduction",
     "section": "",
-    "text": "2 AU Ed Policy Organization"
+    "text": "1.1 Mission\nThe mission of the Education and Health Policy Research Center is to improve the quality of research in the College of Education and across Auburn University. pooling resources and expertise to help support the research enterprise, including seeking grant funding; designing empirical studies; data collection and storage; selecting and implementing rigorous research methods; accurately and transparently reporting research findings; and synthesizing empirical information for policy-makers and the general public.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
   },
   {
     "objectID": "intro.html#mission",
     "href": "intro.html#mission",
     "title": "1  Introduction",
-    "section": "1.1 Mission",
-    "text": "1.1 Mission\nThe mission of the Education and Health Policy Research Center is to improve the quality of research in the College of Education and across Auburn University. pooling resources and expertise to help support the research enterprise, including seeking grant funding; designing empirical studies; data collection and storage; selecting and implementing rigorous research methods; accurately and transparently reporting research findings; and synthesizing empirical information for policy-makers and the general public.\n\nPractitioner-Driven Research - We work with educational practitioners and leaders to develop research that is relevant to their work.\nComprehensive Evidence-Based Research - We use evidence-based research practices that value rigorous, but we also recognized that methods such as randomized-controlled trials, are not suitable for all research questions."
+    "section": "",
+    "text": "Practitioner-Driven Research - We work with educational practitioners and leaders to develop research that is relevant to their work.\nComprehensive Evidence-Based Research - We use evidence-based research practices that value rigorous, but we also recognized that methods such as randomized-controlled trials, are not suitable for all research questions.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
   },
   {
     "objectID": "intro.html#data-analytics-and-statistical-software-resource-unit-dassr",
     "href": "intro.html#data-analytics-and-statistical-software-resource-unit-dassr",
     "title": "1  Introduction",
     "section": "2.1 Data, Analytics, and Statistical Software Resource Unit (DASSR)",
-    "text": "2.1 Data, Analytics, and Statistical Software Resource Unit (DASSR)\n\nHouse large scale secondary data sources\nHouse state educational data\nDevelop software to merge state and local data with national level data\nUtilize Artificial Intelligence and Machine Learning to streamline and data acquisition, processing, and analysis\n\nDevelop methods to meet the complexity of educational longitudinal data\nFacilitate student and faculty access to the HPC cluster\n\nestablish Rstudio server on COE HPC node\nprovide training for using HPC cluster"
+    "text": "2.1 Data, Analytics, and Statistical Software Resource Unit (DASSR)\n\nHouse large scale secondary data sources\nHouse state educational data\nDevelop software to merge state and local data with national level data\nUtilize Artificial Intelligence and Machine Learning to streamline and data acquisition, processing, and analysis\n\nDevelop methods to meet the complexity of educational longitudinal data\nFacilitate student and faculty access to the HPC cluster\n\nestablish Rstudio server on COE HPC node\nprovide training for using HPC cluster",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
   },
   {
     "objectID": "intro.html#research-consultation-and-training-services-rct",
     "href": "intro.html#research-consultation-and-training-services-rct",
     "title": "1  Introduction",
     "section": "2.2 Research Consultation, and Training Services (RCT)",
-    "text": "2.2 Research Consultation, and Training Services (RCT)\n\nProvide statistical consultation to Auburn faculty and students.\nProvide training on modern research methods and data workflow\nProvide training on use of large scale secondary data sources (e.g. NCES)"
+    "text": "2.2 Research Consultation, and Training Services (RCT)\n\nProvide statistical consultation to Auburn faculty and students.\nProvide training on modern research methods and data workflow\nProvide training on use of large scale secondary data sources (e.g. NCES)",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
   },
   {
     "objectID": "intro.html#policy-evaluation-and-applied-research-labs-pearl",
     "href": "intro.html#policy-evaluation-and-applied-research-labs-pearl",
     "title": "1  Introduction",
     "section": "2.3 Policy, Evaluation, and Applied Research Labs (PEARL)",
-    "text": "2.3 Policy, Evaluation, and Applied Research Labs (PEARL)\n\nConduct research informing state and local education policy\nSynthesize information for educational practitioners\nConduct systematic reviews and meta-analyses to inform policy\n\n\n2.3.1 Example Lab types\n\nEducational Policy, Evaluation, and Applied Research Labs (Ed-PEARLS)\nHealth Policy, Evaluation, and Applied Research Labs (H-PEARLS)\n\n\n\n2.3.2 Examples\n\nSPARK STEM Institute"
+    "text": "2.3 Policy, Evaluation, and Applied Research Labs (PEARL)\n\nConduct research informing state and local education policy\nSynthesize information for educational practitioners\nConduct systematic reviews and meta-analyses to inform policy\n\n\n2.3.1 Example Lab types\n\nEducational Policy, Evaluation, and Applied Research Labs (Ed-PEARLS)\nHealth Policy, Evaluation, and Applied Research Labs (H-PEARLS)\n\n\n\n2.3.2 Examples\n\nSPARK STEM Institute",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
   },
   {
-    "objectID": "research_projects.html#nonlinear-achievement-trajectories",
-    "href": "research_projects.html#nonlinear-achievement-trajectories",
+    "objectID": "research_projects.html",
+    "href": "research_projects.html",
     "title": "3  Research Projects",
-    "section": "3.1 Nonlinear Achievement Trajectories",
-    "text": "3.1 Nonlinear Achievement Trajectories"
+    "section": "",
+    "text": "3.1 Nonlinear Achievement Trajectories",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Research Projects</span>"
+    ]
   },
   {
     "objectID": "research_projects.html#time-adjustment",
     "href": "research_projects.html#time-adjustment",
     "title": "3  Research Projects",
     "section": "3.2 Time adjustment",
-    "text": "3.2 Time adjustment\nusing mixed-effects models to partition within and between variation of observation times and age.\nMcNeish and Kelley 2019"
+    "text": "3.2 Time adjustment\nusing mixed-effects models to partition within and between variation of observation times and age.\nMcNeish and Kelley 2019",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Research Projects</span>"
+    ]
   },
   {
     "objectID": "potential_funding_sources.html",
     "href": "potential_funding_sources.html",
     "title": "4  Potential Funding Sources",
     "section": "",
-    "text": "SBIR = Small Business Innovation Research\nSTTR = Small Business Technology Transfer\nFederal site with information\nAn overview slideshow\nNSF RAPID AI in K-12\nWTG Institutional Challenge Grant"
+    "text": "SBIR = Small Business Innovation Research\nSTTR = Small Business Technology Transfer\nFederal site with information\nAn overview slideshow\nNSF RAPID AI in K-12\nWTG Institutional Challenge Grant",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Potential Funding Sources</span>"
+    ]
   },
   {
-    "objectID": "someday_maybe.html#conferences-on-leadershipadministration",
-    "href": "someday_maybe.html#conferences-on-leadershipadministration",
+    "objectID": "someday_maybe.html",
+    "href": "someday_maybe.html",
     "title": "5  Someday/Maybe",
-    "section": "5.1 Conferences on Leadership/Administration",
-    "text": "5.1 Conferences on Leadership/Administration\nAcademic Chairpersons Conference"
+    "section": "",
+    "text": "5.1 Conferences on Leadership/Administration\nAcademic Chairpersons Conference",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Someday/Maybe</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#copilot",
+    "href": "index.html#copilot",
+    "title": "AU Educational and Health Policy Research Center",
+    "section": "Copilot",
+    "text": "Copilot\nCertainly! Developing a research center is an exciting endeavor. Let’s start by crafting a mission statement for your center, followed by outlining its main objectives and a strategic plan.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#mission-statement",
+    "href": "index.html#mission-statement",
+    "title": "AU Educational and Health Policy Research Center",
+    "section": "Mission Statement:",
+    "text": "Mission Statement:\n“The [Center Name] at [University Name] is dedicated to advancing evidence-based education and health policies through rigorous empirical research. Our mission is to inform state and federal decision-making by leveraging secondary data sources, incorporating machine learning and artificial intelligence, and collaborating with experts in rural education.”",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#main-objectives",
+    "href": "index.html#main-objectives",
+    "title": "AU Educational and Health Policy Research Center",
+    "section": "Main Objectives:",
+    "text": "Main Objectives:\n\nPolicy Research and Analysis: Conduct in-depth research on education and health policies, analyzing their impact and effectiveness. Provide evidence-based recommendations to policymakers.\nData Utilization: Leverage existing data sources (such as those provided by the National Center for Education Statistics - NCES) and collect relevant data to inform policy decisions.\nInterdisciplinary Collaboration: Foster collaboration among faculty, researchers, and practitioners across disciplines to address complex policy challenges.\nMachine Learning and AI Integration: Develop and apply machine learning algorithms and artificial intelligence techniques to enhance research efficiency and accuracy.\nRural Education Focus: Prioritize research related to rural education, addressing unique challenges faced by rural communities.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#strategic-plan",
+    "href": "index.html#strategic-plan",
+    "title": "AU Educational and Health Policy Research Center",
+    "section": "Strategic Plan:",
+    "text": "Strategic Plan:\n\nInfrastructure Development: Establish a state-of-the-art research facility equipped with advanced computing resources, data storage, and collaboration spaces.\nFaculty Recruitment and Training: Recruit top-tier researchers specializing in education policy, health policy, and machine learning. Provide ongoing training to enhance their expertise.\nData Management and Analytics: Develop robust data management protocols, ensuring data security, quality, and accessibility. Implement advanced analytics tools for efficient data processing.\nExternal Partnerships: Collaborate with government agencies, non-profits, and other research centers to share data, insights, and resources. Strengthen ties with rural schools and communities.\nDissemination and Impact: Regularly publish research findings in reputable journals and present at conferences. Engage policymakers, practitioners, and the public through workshops and webinars.\n\nRemember that this is a starting point, and you can tailor it further to align with your specific vision and goals for the research center. Best of luck with your endeavor! 🌟¹²³⁴⁵\nSource: Conversation with Bing, 5/14/2024 (1) STRATEGIC PLAN FOR RESEARCH - NIMH. https://www.nimh.nih.gov/sites/default/files/documents/about/strategic-planning-reports/NIMH-Strategic-Plan-for-Research-2021-Update.pdf. (2) Chapter 8. Developing a Strategic Plan | Section 1. An Overview of …. https://ctb.ku.edu/en/table-of-contents/structure/strategic-planning/vmosa/main. (3) Strategic Plan 2020-2024 – The Advanced Science Research Center. https://asrc.gc.cuny.edu/strategic-plan/. (4) Strategic Planning: 5 Planning Steps, Process Guide [2024] • Asana. https://asana.com/resources/strategic-planning. (5) The National Institute of Nursing Research 2022-2026 Strategic Plan. https://www.ninr.nih.gov/aboutninr/ninr-mission-and-strategic-plan.",
+    "crumbs": [
+      "Preface"
+    ]
   }
 ]

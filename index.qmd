@@ -3,6 +3,57 @@
 
 ## Mission
 
-University mission, land grant mission, enhance research productivity on campus
+Auburn University's Center for Education and Health Research aims to advance the understanding of state and federal education and health policies and practices through rigorous empirical research. By leveraging secondary data sources and cutting-edge technologies in machine learning and artificial intelligence, the Center seeks to generate impactful insights and solutions that address the unique challenges of rural education and health systems. Our commitment is to inform policy, practice, and public understanding to foster equitable and effective educational and health outcomes for all communities.
 
-    
+The [Center Name] at [University Name] is dedicated to advancing evidence-based education and health policies through rigorous empirical research. Our mission is to inform state and federal decision-making by leveraging secondary data sources, incorporating machine learning and artificial intelligence, and collaborating with experts in rural education.  
+
+
+
+
+## Copilot
+
+Certainly! Developing a research center is an exciting endeavor. Let's start by crafting a mission statement for your center, followed by outlining its main objectives and a strategic plan.
+
+## Mission Statement:
+*"The [Center Name] at [University Name] is dedicated to advancing evidence-based education and health policies through rigorous empirical research. Our mission is to inform state and federal decision-making by leveraging secondary data sources, incorporating machine learning and artificial intelligence, and collaborating with experts in rural education."*
+
+## Main Objectives:
+1. **Policy Research and Analysis:**
+   Conduct in-depth research on education and health policies, analyzing their impact and effectiveness. Provide evidence-based recommendations to policymakers.
+
+2. **Data Utilization:**
+   Leverage existing data sources (such as those provided by the National Center for Education Statistics - NCES) and collect relevant data to inform policy decisions.
+
+3. **Interdisciplinary Collaboration:**
+   Foster collaboration among faculty, researchers, and practitioners across disciplines to address complex policy challenges.
+
+4. **Machine Learning and AI Integration:**
+   Develop and apply machine learning algorithms and artificial intelligence techniques to enhance research efficiency and accuracy.
+
+5. **Rural Education Focus:**
+   Prioritize research related to rural education, addressing unique challenges faced by rural communities.
+
+## Strategic Plan:
+1. **Infrastructure Development:**
+   Establish a state-of-the-art research facility equipped with advanced computing resources, data storage, and collaboration spaces.
+
+2. **Faculty Recruitment and Training:**
+   Recruit top-tier researchers specializing in education policy, health policy, and machine learning. Provide ongoing training to enhance their expertise.
+
+3. **Data Management and Analytics:**
+   Develop robust data management protocols, ensuring data security, quality, and accessibility. Implement advanced analytics tools for efficient data processing.
+
+4. **External Partnerships:**
+   Collaborate with government agencies, non-profits, and other research centers to share data, insights, and resources. Strengthen ties with rural schools and communities.
+
+5. **Dissemination and Impact:**
+   Regularly publish research findings in reputable journals and present at conferences. Engage policymakers, practitioners, and the public through workshops and webinars.
+
+Remember that this is a starting point, and you can tailor it further to align with your specific vision and goals for the research center. Best of luck with your endeavor! 🌟¹²³⁴⁵
+
+Source: Conversation with Bing, 5/14/2024
+(1) STRATEGIC PLAN FOR RESEARCH - NIMH. https://www.nimh.nih.gov/sites/default/files/documents/about/strategic-planning-reports/NIMH-Strategic-Plan-for-Research-2021-Update.pdf.
+(2) Chapter 8. Developing a Strategic Plan | Section 1. An Overview of .... https://ctb.ku.edu/en/table-of-contents/structure/strategic-planning/vmosa/main.
+(3) Strategic Plan 2020-2024 – The Advanced Science Research Center. https://asrc.gc.cuny.edu/strategic-plan/.
+(4) Strategic Planning: 5 Planning Steps, Process Guide [2024] • Asana. https://asana.com/resources/strategic-planning.
+(5) The National Institute of Nursing Research 2022-2026 Strategic Plan. https://www.ninr.nih.gov/aboutninr/ninr-mission-and-strategic-plan.
