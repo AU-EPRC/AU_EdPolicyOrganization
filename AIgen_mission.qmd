@@ -9,74 +9,69 @@ Auburn University's Center for Education and Health Research aims to advance the
 
 ### Main Objectives
 
-1. **Conduct Rigorous Empirical Research**: Utilize robust research methodologies to analyze state and federal education and health policies, focusing on their impacts and effectiveness.
-2. **Leverage Technology**: Incorporate machine learning and artificial intelligence for data scraping, cleaning, management, analysis, and reporting to enhance the scientific process.
-3. **Utilize Secondary Data**: Maximize the use of existing data sources, such as those provided by NCES, while also collecting relevant new data to support comprehensive research.
-4. **Focus on Rural Education and Health**: Address the specific needs and challenges faced by rural communities through targeted research initiatives.
-5. **Inform Policy and Practice**: Provide evidence-based insights to policymakers, educators, and health professionals to inform and improve policy and practice.
-6. **Foster Collaboration**: Build strong researcher/practitioner partnerships with educational institutions, government bodies, research organizations, and community stakeholders.
-7. **Build Rigorous Researchers**: Train researchers and practitioners to use rigorous empirical research methods with an emphasis on reproducible and replicable workflows.
+1.  **Conduct Rigorous Empirical Research**: Utilize robust research methodologies to analyze state and federal education and health policies, focusing on their impacts and effectiveness.
+2.  **Leverage Technology**: Incorporate machine learning and artificial intelligence for data scraping, cleaning, management, analysis, and reporting to enhance the scientific process.
+3.  **Utilize Secondary Data**: Maximize the use of existing data sources, such as those provided by NCES, while also collecting relevant new data to support comprehensive research.
+4.  **Focus on Rural Education and Health**: Address the specific needs and challenges faced by rural communities through targeted research initiatives.
+5.  **Inform Policy and Practice**: Provide evidence-based insights to policymakers, educators, and health professionals to inform and improve policy and practice.
+6.  **Foster Collaboration**: Build strong researcher/practitioner partnerships with educational institutions, government bodies, research organizations, and community stakeholders.
+7.  **Build Rigorous Researchers**: Train researchers and practitioners to use rigorous empirical research methods with an emphasis on reproducible and replicable workflows.
 
 ### Strategic Plan
 
 #### **Year 1-2: Establishment and Foundation Building**
-1. **Infrastructure Development**: 
-   - Set up the physical and technological infrastructure, including research labs and data management systems.
-   - Hire qualified staff and researchers with expertise in education, health policy, and data science.
 
-2. **Data Acquisition and Management**: 
-   - Secure access to secondary data sources, including NCES datasets.
-   - Develop protocols for data scraping, cleaning, and management using AI and machine learning tools.
-
-3. **Initial Research Projects**: 
-   - Launch preliminary research projects focusing on critical issues in state and federal education and health policies.
-   - Begin studies specifically targeting rural education and health challenges.
+1.  **Infrastructure Development**:
+    -   Set up the physical and technological infrastructure, including research labs and data management systems.
+    -   Hire qualified staff and researchers with expertise in education, health policy, and data science.
+2.  **Data Acquisition and Management**:
+    -   Secure access to secondary data sources, including NCES datasets.
+    -   Develop protocols for data scraping, cleaning, and management using AI and machine learning tools.
+3.  **Initial Research Projects**:
+    -   Launch preliminary research projects focusing on critical issues in state and federal education and health policies.
+    -   Begin studies specifically targeting rural education and health challenges.
 
 #### **Year 3-5: Expansion and Impact**
-1. **Research Output**: 
-   - Increase the volume and quality of research publications in high-impact journals.
-   - Present findings at national and international conferences.
 
-2. **Technology Integration**: 
-   - Enhance the use of machine learning and AI in research processes, including predictive analytics and advanced data visualization.
-   - Develop and implement new AI-driven tools for data analysis and reporting.
-
-3. **Policy Engagement and Dissemination**: 
-   - Engage with policymakers to translate research findings into actionable policies.
-   - Host policy briefings, workshops, and seminars to disseminate research outcomes to a broader audience.
-
-4. **Seek External Funding**: Acquire state and/or federal funding to support the center mission and operations.
+1.  **Research Output**:
+    -   Increase the volume and quality of research publications in high-impact journals.
+    -   Present findings at national and international conferences.
+2.  **Technology Integration**:
+    -   Enhance the use of machine learning and AI in research processes, including predictive analytics and advanced data visualization.
+    -   Develop and implement new AI-driven tools for data analysis and reporting.
+3.  **Policy Engagement and Dissemination**:
+    -   Engage with policymakers to translate research findings into actionable policies.
+    -   Host policy briefings, workshops, and seminars to disseminate research outcomes to a broader audience.
+4.  **Seek External Funding**: Acquire state and/or federal funding to support the center mission and operations.
 
 #### **Year 5-10: Sustainability and Leadership**
-1. **Sustainable Funding**: 
-   - Secure diverse and sustainable funding sources through grants, partnerships, and donations.
-   - Establish an endowment to ensure long-term financial stability.
 
-2. **Community and Educational Outreach**: 
-   - Expand outreach programs to engage local communities, particularly in rural areas, in the research process.
-   - Develop educational programs and training workshops for educators and health professionals.
-
-3. **Continuous Improvement and Evaluation**: 
-   - Implement a robust evaluation framework to assess the impact of the Center’s research and activities.
-   - Continuously refine research methodologies and technological tools to maintain cutting-edge capabilities.
-
-4. **Leadership and Recognition**: 
-   - Position the Center as a national leader in education and health policy research.
-   - Pursue awards and recognition for excellence in research and policy impact.
+1.  **Sustainable Funding**:
+    -   Secure diverse and sustainable funding sources through grants, partnerships, and donations.
+    -   Establish an endowment to ensure long-term financial stability.
+2.  **Community and Educational Outreach**:
+    -   Expand outreach programs to engage local communities, particularly in rural areas, in the research process.
+    -   Develop educational programs and training workshops for educators and health professionals.
+3.  **Continuous Improvement and Evaluation**:
+    -   Implement a robust evaluation framework to assess the impact of the Center’s research and activities.
+    -   Continuously refine research methodologies and technological tools to maintain cutting-edge capabilities.
+4.  **Leadership and Recognition**:
+    -   Position the Center as a national leader in education and health policy research.
+    -   Pursue awards and recognition for excellence in research and policy impact.
 
 By following this strategic plan, the Center for Education and Health Policy Research will establish itself as a premier institution dedicated to advancing knowledge and informing policy in education and health, with a special emphasis on serving rural communities.
 
 Sure, here are some potential names for the center at Auburn University:
 
-1. **Auburn Center for Education and Health Policy Research (ACEHPR)**
-2. **Auburn Institute for Education and Health Policy Studies (AIEHPS)**
-3. **Center for Rural Education and Health Policy Research (CREHPR)**
-4. **Auburn Education and Health Policy Research Institute (AEHPRI)**
-5. **Institute for Education and Health Policy Innovation (IEHPI)**
-6. **Auburn Policy Research Center for Education and Health (APRCEH)**
-7. **Education and Health Policy Analysis Center (EHPAC)**
-8. **Auburn Research Center for Education and Health Policy (ARCEHP)**
-9. **Center for Empirical Studies in Education and Health Policy (CESEHP)**
+1.  **Auburn Center for Education and Health Policy Research (ACEHPR)**
+2.  **Auburn Institute for Education and Health Policy Studies (AIEHPS)**
+3.  **Center for Rural Education and Health Policy Research (CREHPR)**
+4.  **Auburn Education and Health Policy Research Institute (AEHPRI)**
+5.  **Institute for Education and Health Policy Innovation (IEHPI)**
+6.  **Auburn Policy Research Center for Education and Health (APRCEH)**
+7.  **Education and Health Policy Analysis Center (EHPAC)**
+8.  **Auburn Research Center for Education and Health Policy (ARCEHP)**
+9.  **Center for Empirical Studies in Education and Health Policy (CESEHP)**
 10. **Auburn Institute for Rural Education and Health Policy (AIREHP)**
 
 Each of these names reflects the center's focus on education and health policy research, with a particular emphasis on rural issues, while also incorporating Auburn University's name for institutional identity.

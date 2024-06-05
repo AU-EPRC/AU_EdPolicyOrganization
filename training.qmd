@@ -1,0 +1,28 @@
+---
+title: "Advanced Research Skill Development"
+editor: visual
+---
+
+## Online Courses
+
+### Introduction to Statistical Programming for Researchers
+
+#### Introduction to R
+
+#### Introduction to Python for Research
+
+#### Introduction to Literate Programming with Quarto
+
+### Introduction to ML and AI for Social, Behavioral, Educational and Health Researchers
+
+With Biggio Center
+
+## Workshops
+
+### AI for Systematic Reviews
+
+### AI/ML for Simulation-based Research
+
+### Workflow
+
+### Bayesian Data Analysis

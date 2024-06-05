@@ -1,14 +1,10 @@
 # Preface {.unnumbered}
 
-
 ## Mission
 
 Auburn University's Center for Education and Health Research aims to advance the understanding of state and federal education and health policies and practices through rigorous empirical research. By leveraging secondary data sources and cutting-edge technologies in machine learning and artificial intelligence, the Center seeks to generate impactful insights and solutions that address the unique challenges of rural education and health systems. Our commitment is to inform policy, practice, and public understanding to foster equitable and effective educational and health outcomes for all communities.
 
 The [Center Name] at [University Name] is dedicated to advancing evidence-based education and health policies through rigorous empirical research. Our mission is to inform state and federal decision-making by leveraging secondary data sources, incorporating machine learning and artificial intelligence, and collaborating with experts in rural education.  
-
-
-
 
 ## Copilot
 
@@ -51,9 +47,9 @@ Certainly! Developing a research center is an exciting endeavor. Let's start by 
 
 Remember that this is a starting point, and you can tailor it further to align with your specific vision and goals for the research center. Best of luck with your endeavor! 🌟¹²³⁴⁵
 
-Source: Conversation with Bing, 5/14/2024
-(1) STRATEGIC PLAN FOR RESEARCH - NIMH. https://www.nimh.nih.gov/sites/default/files/documents/about/strategic-planning-reports/NIMH-Strategic-Plan-for-Research-2021-Update.pdf.
-(2) Chapter 8. Developing a Strategic Plan | Section 1. An Overview of .... https://ctb.ku.edu/en/table-of-contents/structure/strategic-planning/vmosa/main.
-(3) Strategic Plan 2020-2024 – The Advanced Science Research Center. https://asrc.gc.cuny.edu/strategic-plan/.
-(4) Strategic Planning: 5 Planning Steps, Process Guide [2024] • Asana. https://asana.com/resources/strategic-planning.
-(5) The National Institute of Nursing Research 2022-2026 Strategic Plan. https://www.ninr.nih.gov/aboutninr/ninr-mission-and-strategic-plan.
+## Source: Conversation with Bing, 5/14/2024    
+(1) STRATEGIC PLAN FOR RESEARCH - NIMH. https://www.nimh.nih.gov/sites/default/files/documents/about/strategic-planning-reports/NIMH-Strategic-Plan-for-Research-2021-Update.pdf.    
+(2) Chapter 8. Developing a Strategic Plan | Section 1. An Overview of .... https://ctb.ku.edu/en/table-of-contents/structure/strategic-planning/vmosa/main.    
+(3) Strategic Plan 2020-2024 – The Advanced Science Research Center. https://asrc.gc.cuny.edu/strategic-plan/.   
+(4) Strategic Planning: 5 Planning Steps, Process Guide [2024] • Asana. https://asana.com/resources/strategic-planning.   
+(5) The National Institute of Nursing Research 2022-2026 Strategic Plan. https://www.ninr.nih.gov/aboutninr/ninr-mission-and-strategic-plan.   

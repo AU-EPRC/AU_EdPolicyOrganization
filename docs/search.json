@@ -20,6 +20,56 @@
     ]
   },
   {
+    "objectID": "index.html#copilot",
+    "href": "index.html#copilot",
+    "title": "AU Educational and Health Policy Research Center",
+    "section": "Copilot",
+    "text": "Copilot\nCertainly! Developing a research center is an exciting endeavor. Let’s start by crafting a mission statement for your center, followed by outlining its main objectives and a strategic plan.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#mission-statement",
+    "href": "index.html#mission-statement",
+    "title": "AU Educational and Health Policy Research Center",
+    "section": "Mission Statement:",
+    "text": "Mission Statement:\n“The [Center Name] at [University Name] is dedicated to advancing evidence-based education and health policies through rigorous empirical research. Our mission is to inform state and federal decision-making by leveraging secondary data sources, incorporating machine learning and artificial intelligence, and collaborating with experts in rural education.”",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#main-objectives",
+    "href": "index.html#main-objectives",
+    "title": "AU Educational and Health Policy Research Center",
+    "section": "Main Objectives:",
+    "text": "Main Objectives:\n\nPolicy Research and Analysis: Conduct in-depth research on education and health policies, analyzing their impact and effectiveness. Provide evidence-based recommendations to policymakers.\nData Utilization: Leverage existing data sources (such as those provided by the National Center for Education Statistics - NCES) and collect relevant data to inform policy decisions.\nInterdisciplinary Collaboration: Foster collaboration among faculty, researchers, and practitioners across disciplines to address complex policy challenges.\nMachine Learning and AI Integration: Develop and apply machine learning algorithms and artificial intelligence techniques to enhance research efficiency and accuracy.\nRural Education Focus: Prioritize research related to rural education, addressing unique challenges faced by rural communities.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#strategic-plan",
+    "href": "index.html#strategic-plan",
+    "title": "AU Educational and Health Policy Research Center",
+    "section": "Strategic Plan:",
+    "text": "Strategic Plan:\n\nInfrastructure Development: Establish a state-of-the-art research facility equipped with advanced computing resources, data storage, and collaboration spaces.\nFaculty Recruitment and Training: Recruit top-tier researchers specializing in education policy, health policy, and machine learning. Provide ongoing training to enhance their expertise.\nData Management and Analytics: Develop robust data management protocols, ensuring data security, quality, and accessibility. Implement advanced analytics tools for efficient data processing.\nExternal Partnerships: Collaborate with government agencies, non-profits, and other research centers to share data, insights, and resources. Strengthen ties with rural schools and communities.\nDissemination and Impact: Regularly publish research findings in reputable journals and present at conferences. Engage policymakers, practitioners, and the public through workshops and webinars.\n\nRemember that this is a starting point, and you can tailor it further to align with your specific vision and goals for the research center. Best of luck with your endeavor! 🌟¹²³⁴⁵",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#source-conversation-with-bing-5142024",
+    "href": "index.html#source-conversation-with-bing-5142024",
+    "title": "AU Educational and Health Policy Research Center",
+    "section": "Source: Conversation with Bing, 5/14/2024",
+    "text": "Source: Conversation with Bing, 5/14/2024\n\nSTRATEGIC PLAN FOR RESEARCH - NIMH. https://www.nimh.nih.gov/sites/default/files/documents/about/strategic-planning-reports/NIMH-Strategic-Plan-for-Research-2021-Update.pdf.\n\nChapter 8. Developing a Strategic Plan | Section 1. An Overview of …. https://ctb.ku.edu/en/table-of-contents/structure/strategic-planning/vmosa/main.\n\nStrategic Plan 2020-2024 – The Advanced Science Research Center. https://asrc.gc.cuny.edu/strategic-plan/.\n\nStrategic Planning: 5 Planning Steps, Process Guide [2024] • Asana. https://asana.com/resources/strategic-planning.\n\nThe National Institute of Nursing Research 2022-2026 Strategic Plan. https://www.ninr.nih.gov/aboutninr/ninr-mission-and-strategic-plan.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
     "objectID": "intro.html",
     "href": "intro.html",
     "title": "1  Introduction",
@@ -110,43 +160,83 @@
     ]
   },
   {
-    "objectID": "index.html#copilot",
-    "href": "index.html#copilot",
-    "title": "AU Educational and Health Policy Research Center",
-    "section": "Copilot",
-    "text": "Copilot\nCertainly! Developing a research center is an exciting endeavor. Let’s start by crafting a mission statement for your center, followed by outlining its main objectives and a strategic plan.",
+    "objectID": "training.html",
+    "href": "training.html",
+    "title": "6  Advanced Research Skill Development",
+    "section": "",
+    "text": "6.1 Online Courses",
     "crumbs": [
-      "Preface"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Advanced Research Skill Development</span>"
     ]
   },
   {
-    "objectID": "index.html#mission-statement",
-    "href": "index.html#mission-statement",
-    "title": "AU Educational and Health Policy Research Center",
-    "section": "Mission Statement:",
-    "text": "Mission Statement:\n“The [Center Name] at [University Name] is dedicated to advancing evidence-based education and health policies through rigorous empirical research. Our mission is to inform state and federal decision-making by leveraging secondary data sources, incorporating machine learning and artificial intelligence, and collaborating with experts in rural education.”",
+    "objectID": "training.html#online-courses",
+    "href": "training.html#online-courses",
+    "title": "6  Advanced Research Skill Development",
+    "section": "",
+    "text": "6.1.1 Introduction to Statistical Programming for Researchers\n\n6.1.1.1 Introduction to R\n\n\n6.1.1.2 Introduction to Python for Research\n\n\n6.1.1.3 Introduction to Literate Programming with Quarto\n\n\n\n6.1.2 Introduction to ML and AI for Social, Behavioral, Educational and Health Researchers\nWith Biggio Center",
     "crumbs": [
-      "Preface"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Advanced Research Skill Development</span>"
     ]
   },
   {
-    "objectID": "index.html#main-objectives",
-    "href": "index.html#main-objectives",
-    "title": "AU Educational and Health Policy Research Center",
-    "section": "Main Objectives:",
-    "text": "Main Objectives:\n\nPolicy Research and Analysis: Conduct in-depth research on education and health policies, analyzing their impact and effectiveness. Provide evidence-based recommendations to policymakers.\nData Utilization: Leverage existing data sources (such as those provided by the National Center for Education Statistics - NCES) and collect relevant data to inform policy decisions.\nInterdisciplinary Collaboration: Foster collaboration among faculty, researchers, and practitioners across disciplines to address complex policy challenges.\nMachine Learning and AI Integration: Develop and apply machine learning algorithms and artificial intelligence techniques to enhance research efficiency and accuracy.\nRural Education Focus: Prioritize research related to rural education, addressing unique challenges faced by rural communities.",
+    "objectID": "training.html#workshops",
+    "href": "training.html#workshops",
+    "title": "6  Advanced Research Skill Development",
+    "section": "6.2 Workshops",
+    "text": "6.2 Workshops\n\n6.2.1 AI for Systematic Reviews\n\n\n6.2.2 AI/ML for Simulation-based Research\n\n\n6.2.3 Workflow\n\n\n6.2.4 Bayesian Data Analysis",
     "crumbs": [
-      "Preface"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Advanced Research Skill Development</span>"
     ]
   },
   {
-    "objectID": "index.html#strategic-plan",
-    "href": "index.html#strategic-plan",
-    "title": "AU Educational and Health Policy Research Center",
-    "section": "Strategic Plan:",
-    "text": "Strategic Plan:\n\nInfrastructure Development: Establish a state-of-the-art research facility equipped with advanced computing resources, data storage, and collaboration spaces.\nFaculty Recruitment and Training: Recruit top-tier researchers specializing in education policy, health policy, and machine learning. Provide ongoing training to enhance their expertise.\nData Management and Analytics: Develop robust data management protocols, ensuring data security, quality, and accessibility. Implement advanced analytics tools for efficient data processing.\nExternal Partnerships: Collaborate with government agencies, non-profits, and other research centers to share data, insights, and resources. Strengthen ties with rural schools and communities.\nDissemination and Impact: Regularly publish research findings in reputable journals and present at conferences. Engage policymakers, practitioners, and the public through workshops and webinars.\n\nRemember that this is a starting point, and you can tailor it further to align with your specific vision and goals for the research center. Best of luck with your endeavor! 🌟¹²³⁴⁵\nSource: Conversation with Bing, 5/14/2024 (1) STRATEGIC PLAN FOR RESEARCH - NIMH. https://www.nimh.nih.gov/sites/default/files/documents/about/strategic-planning-reports/NIMH-Strategic-Plan-for-Research-2021-Update.pdf. (2) Chapter 8. Developing a Strategic Plan | Section 1. An Overview of …. https://ctb.ku.edu/en/table-of-contents/structure/strategic-planning/vmosa/main. (3) Strategic Plan 2020-2024 – The Advanced Science Research Center. https://asrc.gc.cuny.edu/strategic-plan/. (4) Strategic Planning: 5 Planning Steps, Process Guide [2024] • Asana. https://asana.com/resources/strategic-planning. (5) The National Institute of Nursing Research 2022-2026 Strategic Plan. https://www.ninr.nih.gov/aboutninr/ninr-mission-and-strategic-plan.",
+    "objectID": "outreach.html",
+    "href": "outreach.html",
+    "title": "7  Outreach",
+    "section": "",
+    "text": "8 Outreach Mechanisms\n\nAlabama Monitor of Educational Policy and Practice (AMEPP or Alabama Education Policy to Practice (AEP2P)\nState of the State",
     "crumbs": [
-      "Preface"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Outreach</span>"
+    ]
+  },
+  {
+    "objectID": "PeerCenters.html",
+    "href": "PeerCenters.html",
+    "title": "8  Similar Education and Health Research Centers",
+    "section": "",
+    "text": "8.1 ChatGPT genereated:",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Similar Education and Health Research Centers</span>"
+    ]
+  },
+  {
+    "objectID": "PeerCenters.html#chatgpt-genereated",
+    "href": "PeerCenters.html#chatgpt-genereated",
+    "title": "8  Similar Education and Health Research Centers",
+    "section": "",
+    "text": "8.1.1 prompt:\ncan you provided examples of similar research centers with links\n\n\n8.1.2 Response:\nHere are some examples of similar research centers that focus on education and health policy research:\n\nCenter for Education Policy Research (CEPR) at Harvard University\n\nDescription: CEPR focuses on applying rigorous research to educational policy and practice. It leverages large-scale data and partnerships with educational agencies to address pressing educational challenges.\nWebsite: Center for Education Policy Research\n\nUCLA Center for Health Policy Research\n\nDescription: This center conducts research on health policy issues, including health disparities, chronic disease, and health economics. It is known for the California Health Interview Survey (CHIS) and aims to inform policy decisions through its findings.\nWebsite: UCLA Center for Health Policy Research\n\nHealth Policy Institute at Georgetown University\n\nDescription: The institute focuses on health care financing, the uninsured, federal health insurance reforms, and quality of care. It disseminates research findings to policymakers and the public to influence health policy decisions.\nWebsite: Health Policy Institute at Georgetown University\n\nHealth Policy Research Center at Massachusetts General Hospital\n\nDescription: This center conducts research to support quality and efficiency improvements in health care and to inform national health policy. It engages in diverse research projects and collaborates with clinical and academic partners.\nWebsite: Health Policy Research Center at Massachusetts General Hospital\n\n\nThese centers illustrate the integration of empirical research with policy analysis, community engagement, and technological advancements to address educational and health policy issues. They can serve as models for developing your own center at Auburn University.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Similar Education and Health Research Centers</span>"
+    ]
+  },
+  {
+    "objectID": "PeerCenters.html#copilot-generated-same-prompt",
+    "href": "PeerCenters.html#copilot-generated-same-prompt",
+    "title": "8  Similar Education and Health Research Centers",
+    "section": "8.2 Copilot Generated (same prompt):",
+    "text": "8.2 Copilot Generated (same prompt):\n\n8.2.1 Response:\nCertainly! Here are some examples of research centers in education and health policy:\n\nCenter for Education Policy Research (CEPR) at Harvard University:\n\nCEPR focuses on transforming education through quality research and evidence. They collaborate with school districts, states, foundations, and researchers to address education policy questions and improve student outcomes. CEPR offers trainings, data analytics support, and practical findings for educators and policymakers¹.\nLearn more\n\nHealth Policy Institute at Georgetown University:\n\nGeorgetown’s Health Policy Institute houses several centers, including the Center on Health Insurance Reforms (CHIR) and the National Center for Education in Maternal and Child Health. These centers contribute to health policy analysis and evidence-driven approaches to improve population health⁷.\nExplore\n\nCenter for Research in Education & Social Policy (CRESP) at the University of Delaware:\n\nCRESP conducts rigorous research, program evaluation, and policy analysis related to education, community health, and human services. Their work informs practitioners, policymakers, and researchers³.\n\nUCLA Center for Health Policy Research:\n\nUCLA CHPR publishes reports, policy briefs, and data on various health and health policy issues. It serves as a premier source of health information for California⁴.\nVisit\n\n\nRemember that each center has its unique focus and approach, but they all contribute valuable insights to education and health policy. Feel free to explore their websites for more details! 🌟\nSource: Conversation with Bing, 5/14/2024\n(1) Center for Education Policy Research at Harvard University. link.\n(2) Health Policy Institute | Georgetown University. link.\n(3) Research - Education & Social Policy - College of Education & Human …. link.\n(4) UCLA Center for Health Policy Research. link.\n(5) Policy Research - Harvard Catalyst. link.\n(6) . link.\n(7) Charles C. Miller Jr. Poultry Research and Education Center. link.\n(8) Our Research Center - Global Health and Education Projects | GHEP. link.\n(9) Health Policy and Management | Johns Hopkins | Bloomberg School of …. link.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Similar Education and Health Research Centers</span>"
+    ]
+  },
+  {
+    "objectID": "PeerCenters.html#input-from-similar-centers",
+    "href": "PeerCenters.html#input-from-similar-centers",
+    "title": "8  Similar Education and Health Research Centers",
+    "section": "8.3 Input from Similar Centers",
+    "text": "8.3 Input from Similar Centers\n\n8.3.1 Gary Ritter at SLU\nDavid Marshall and I met with Gary Ritter at SLU who started Arkansas Center (https://oep.uark.edu/), and then PRIME (https://www.sluprime.org/).\nPoints from the conversation:\n\nGet a good acronym\nPurpose is to get evidence out to those who can use it\nGood to be impartial\nDon’t lead with MOUs\nGet a website first\nWrite a state of the state policy report\n\nI asked where to start:\n\nWebsite\npress release\nPolicy briefs\nget board of advisors (include state board member)\nget to know legislators (friendly to cause)\n\nProvide constituents benefits of university without costs\nBe responsive to requests\nGo to capital often - share the facts\ncreate advisory board (10-20) they started with about 12.\nBeating the Odds Report\nGary mentioned that the following report was very well received: Spotlight on Success\nhttps://oep.uark.edu/",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Similar Education and Health Research Centers</span>"
     ]
   }
 ]

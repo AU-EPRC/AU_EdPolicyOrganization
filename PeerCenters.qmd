@@ -6,27 +6,25 @@ editor: visual
 ## ChatGPT genereated:
 
 ### prompt:
+
 can you provided examples of similar research centers with links
 
 ### Response:
 
 Here are some examples of similar research centers that focus on education and health policy research:
 
-1. **Center for Education Policy Research (CEPR) at Harvard University**
-   - **Description**: CEPR focuses on applying rigorous research to educational policy and practice. It leverages large-scale data and partnerships with educational agencies to address pressing educational challenges.
-   - **Website**: [Center for Education Policy Research](https://cepr.harvard.edu)
-
-2. **UCLA Center for Health Policy Research**
-   - **Description**: This center conducts research on health policy issues, including health disparities, chronic disease, and health economics. It is known for the California Health Interview Survey (CHIS) and aims to inform policy decisions through its findings.
-   - **Website**: [UCLA Center for Health Policy Research](https://healthpolicy.ucla.edu)
-
-3. **Health Policy Institute at Georgetown University**
-   - **Description**: The institute focuses on health care financing, the uninsured, federal health insurance reforms, and quality of care. It disseminates research findings to policymakers and the public to influence health policy decisions.
-   - **Website**: [Health Policy Institute at Georgetown University](https://hpi.georgetown.edu)
-
-4. **Health Policy Research Center at Massachusetts General Hospital**
-   - **Description**: This center conducts research to support quality and efficiency improvements in health care and to inform national health policy. It engages in diverse research projects and collaborates with clinical and academic partners.
-   - **Website**: [Health Policy Research Center at Massachusetts General Hospital](https://www.massgeneral.org)
+1.  **Center for Education Policy Research (CEPR) at Harvard University**
+    -   **Description**: CEPR focuses on applying rigorous research to educational policy and practice. It leverages large-scale data and partnerships with educational agencies to address pressing educational challenges.
+    -   **Website**: [Center for Education Policy Research](https://cepr.harvard.edu)
+2.  **UCLA Center for Health Policy Research**
+    -   **Description**: This center conducts research on health policy issues, including health disparities, chronic disease, and health economics. It is known for the California Health Interview Survey (CHIS) and aims to inform policy decisions through its findings.
+    -   **Website**: [UCLA Center for Health Policy Research](https://healthpolicy.ucla.edu)
+3.  **Health Policy Institute at Georgetown University**
+    -   **Description**: The institute focuses on health care financing, the uninsured, federal health insurance reforms, and quality of care. It disseminates research findings to policymakers and the public to influence health policy decisions.
+    -   **Website**: [Health Policy Institute at Georgetown University](https://hpi.georgetown.edu)
+4.  **Health Policy Research Center at Massachusetts General Hospital**
+    -   **Description**: This center conducts research to support quality and efficiency improvements in health care and to inform national health policy. It engages in diverse research projects and collaborates with clinical and academic partners.
+    -   **Website**: [Health Policy Research Center at Massachusetts General Hospital](https://www.massgeneral.org)
 
 These centers illustrate the integration of empirical research with policy analysis, community engagement, and technological advancements to address educational and health policy issues. They can serve as models for developing your own center at Auburn University.
 
@@ -36,30 +34,64 @@ These centers illustrate the integration of empirical research with policy analy
 
 Certainly! Here are some examples of research centers in education and health policy:
 
-1. **Center for Education Policy Research (CEPR) at Harvard University**:
-   - CEPR focuses on transforming education through quality research and evidence. They collaborate with school districts, states, foundations, and researchers to address education policy questions and improve student outcomes. CEPR offers trainings, data analytics support, and practical findings for educators and policymakers¹.
-   - [Learn more](https://cepr.harvard.edu/)
-
-2. **Health Policy Institute at Georgetown University**:
-   - Georgetown's Health Policy Institute houses several centers, including the Center on Health Insurance Reforms (CHIR) and the National Center for Education in Maternal and Child Health. These centers contribute to health policy analysis and evidence-driven approaches to improve population health⁷.
-   - [Explore](https://hpi.georgetown.edu/)
-
-3. **Center for Research in Education & Social Policy (CRESP) at the University of Delaware**:
-   - CRESP conducts rigorous research, program evaluation, and policy analysis related to education, community health, and human services. Their work informs practitioners, policymakers, and researchers³.
-
-4. **UCLA Center for Health Policy Research**:
-   - UCLA CHPR publishes reports, policy briefs, and data on various health and health policy issues. It serves as a premier source of health information for California⁴.
-   - [Visit](https://healthpolicy.ucla.edu/)
+1.  **Center for Education Policy Research (CEPR) at Harvard University**:
+    -   CEPR focuses on transforming education through quality research and evidence. They collaborate with school districts, states, foundations, and researchers to address education policy questions and improve student outcomes. CEPR offers trainings, data analytics support, and practical findings for educators and policymakers¹.
+    -   [Learn more](https://cepr.harvard.edu/)
+2.  **Health Policy Institute at Georgetown University**:
+    -   Georgetown's Health Policy Institute houses several centers, including the Center on Health Insurance Reforms (CHIR) and the National Center for Education in Maternal and Child Health. These centers contribute to health policy analysis and evidence-driven approaches to improve population health⁷.
+    -   [Explore](https://hpi.georgetown.edu/)
+3.  **Center for Research in Education & Social Policy (CRESP) at the University of Delaware**:
+    -   CRESP conducts rigorous research, program evaluation, and policy analysis related to education, community health, and human services. Their work informs practitioners, policymakers, and researchers³.
+4.  **UCLA Center for Health Policy Research**:
+    -   UCLA CHPR publishes reports, policy briefs, and data on various health and health policy issues. It serves as a premier source of health information for California⁴.
+    -   [Visit](https://healthpolicy.ucla.edu/)
 
 Remember that each center has its unique focus and approach, but they all contribute valuable insights to education and health policy. Feel free to explore their websites for more details! 🌟
 
-Source: Conversation with Bing, 5/14/2024   
-(1) Center for Education Policy Research at Harvard University. [link](https://cepr.harvard.edu/).    
-(2) Health Policy Institute | Georgetown University. [link](https://hpi.georgetown.edu/).    
-(3) Research - Education & Social Policy - College of Education & Human .... [link](https://www.cehd.udel.edu/research/education-social-policy/).    
-(4) UCLA Center for Health Policy Research. [link](https://healthpolicy.ucla.edu/).   
-(5) Policy Research - Harvard Catalyst. [link](https://catalyst.harvard.edu/community-engagement/policy-research/).    
-(6) . [link](https://bing.com/search?q=research+centers+in+education+and+health+policy).   
-(7) Charles C. Miller Jr. Poultry Research and Education Center. [link](https://agriculture.auburn.edu/research/poul/charles-miller-jr-poultry-center/).    
-(8) Our Research Center - Global Health and Education Projects | GHEP. [link](https://globalhealthprojects.org/research-center/).    
-(9) Health Policy and Management | Johns Hopkins | Bloomberg School of .... [link](https://publichealth.jhu.edu/departments/health-policy-and-management).    
+Source: Conversation with Bing, 5/14/2024\
+(1) Center for Education Policy Research at Harvard University. [link](https://cepr.harvard.edu/).\
+(2) Health Policy Institute \| Georgetown University. [link](https://hpi.georgetown.edu/).\
+(3) Research - Education & Social Policy - College of Education & Human .... [link](https://www.cehd.udel.edu/research/education-social-policy/).\
+(4) UCLA Center for Health Policy Research. [link](https://healthpolicy.ucla.edu/).\
+(5) Policy Research - Harvard Catalyst. [link](https://catalyst.harvard.edu/community-engagement/policy-research/).\
+(6) . [link](https://bing.com/search?q=research+centers+in+education+and+health+policy).\
+(7) Charles C. Miller Jr. Poultry Research and Education Center. [link](https://agriculture.auburn.edu/research/poul/charles-miller-jr-poultry-center/).\
+(8) Our Research Center - Global Health and Education Projects \| GHEP. [link](https://globalhealthprojects.org/research-center/).\
+(9) Health Policy and Management \| Johns Hopkins \| Bloomberg School of .... [link](https://publichealth.jhu.edu/departments/health-policy-and-management).
+
+## Input from Similar Centers
+
+### [Gary Ritter](https://www.slu.edu/education/faculty/gary-ritter.php) at SLU
+
+David Marshall and I met with Gary Ritter at SLU who started Arkansas Center (<https://oep.uark.edu/>), and then PRIME (<https://www.sluprime.org/>).
+
+Points from the conversation: 
+
+* Get a good acronym 
+* Purpose is to get evidence out to those who can use it 
+* Good to be impartial 
+* Don't lead with MOUs 
+* Get a website first 
+* Write a state of the state policy report
+
+I asked where to start:
+
+-   Website
+-   press release
+-   Policy briefs
+-   get board of advisors (include state board member)
+-   get to know legislators (friendly to cause)
+
+Provide constituents benefits of university without costs
+
+Be responsive to requests
+
+Go to capital often - share the facts
+
+create advisory board (10-20) they started with about 12.
+
+[Beating the Odds Report](https://www.sluprime.org/education-reports-database/2022-mo-beating-the-odds)
+
+Gary mentioned that the following report was very well received: [Spotlight on Success](https://bpb-us-e1.wpmucdn.com/wordpressua.uark.edu/dist/1/555/files/2011/06/spotlights-on-success-traits-and-strategies-of-five-high-growth-schools-in-arkansas.pdf)
+
+<https://oep.uark.edu/>

@@ -10,7 +10,10 @@ book:
     - summary.qmd
     - research_projects.qmd
     - potential_funding_sources.qmd
-    - someday_maybe.qmd    
+    - someday_maybe.qmd  
+    - training.qmd
+    - outreach.qmd
+    - PeerCenters.qmd
     - references.qmd
 
 bibliography: references.bib
