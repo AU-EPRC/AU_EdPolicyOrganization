@@ -124,7 +124,27 @@
     "href": "research_projects.html",
     "title": "3  Research Projects",
     "section": "",
-    "text": "3.1 Nonlinear Achievement Trajectories",
+    "text": "3.1 Systematic Reviews",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Research Projects</span>"
+    ]
+  },
+  {
+    "objectID": "research_projects.html#policy-briefs",
+    "href": "research_projects.html#policy-briefs",
+    "title": "3  Research Projects",
+    "section": "3.2 Policy Briefs",
+    "text": "3.2 Policy Briefs",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Research Projects</span>"
+    ]
+  },
+  {
+    "objectID": "research_projects.html#nonlinear-achievement-trajectories",
+    "href": "research_projects.html#nonlinear-achievement-trajectories",
+    "title": "3  Research Projects",
+    "section": "3.3 Nonlinear Achievement Trajectories",
+    "text": "3.3 Nonlinear Achievement Trajectories",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Research Projects</span>"
     ]
@@ -133,8 +153,8 @@
     "objectID": "research_projects.html#time-adjustment",
     "href": "research_projects.html#time-adjustment",
     "title": "3  Research Projects",
-    "section": "3.2 Time adjustment",
-    "text": "3.2 Time adjustment\nusing mixed-effects models to partition within and between variation of observation times and age.\nMcNeish and Kelley 2019",
+    "section": "3.4 Time adjustment",
+    "text": "3.4 Time adjustment\nusing mixed-effects models to partition within and between variation of observation times and age.\nMcNeish and Kelley 2019",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Research Projects</span>"
     ]
